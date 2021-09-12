@@ -1,6 +1,6 @@
 # Regarding the state of Sniper/Snipebot
 
-Hey everyone, sorry to inform you guys, but Sniper will be discontinuing. Why? 
+Sniper will be discontinuing for the following reasons:
 
 - The main library I have been using to write Sniper is now terminating (discord.py), and I can't run Sniper anymore. I either have to rewrite Sniper completely in a different language (I'm only proficient in python) OR I have to use a different library which I also have to rewrite Sniper for.
 
@@ -14,7 +14,7 @@ Hey everyone, sorry to inform you guys, but Sniper will be discontinuing. Why?
 
 I will be releasing ALL code for Sniper (even my unfinished code I was planning to release) although, unless you rewrite it, it will be useless. 
 
-Thanks for using Sniper and sorry to everyone!
+Thanks for using Sniper and a huge sorry to everyone!
 
 ![s1](https://user-images.githubusercontent.com/62295620/132265965-d32acf14-b8e1-44b3-a035-614d2a7007b7.png)
 ![s2](https://user-images.githubusercontent.com/62295620/132265967-70a7b25c-1118-49a9-84c3-3b5a89531fd1.png)
